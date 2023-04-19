@@ -4,9 +4,8 @@
  Version: 1.0
  Text Domain: organick
 */
-
-@import 'variables';
-
 html {
-    font-family: $font-main;
+  font-family: "Roboto", sans-serif;
 }
+
+/*# sourceMappingURL=style.css.map */
